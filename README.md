@@ -1,1 +1,1 @@
-# laborator2
+# Laborator_gamma
